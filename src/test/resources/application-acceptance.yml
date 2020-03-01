@@ -1,0 +1,6 @@
+server:
+  port: 8084
+virgin:
+  flights:
+    information:
+      file: "mock-flights.csv"
