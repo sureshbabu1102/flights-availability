@@ -11,6 +11,6 @@ This is small MVP of flight availability application
 6. Written test cases for each layer (Loading the flights information in csv file / Service/Controller)
 7. Run the FlightsAvailabilityApplication spring boot main application 
 8. Access flight details with the bellow url from post man or browser.
-   http://localhost:8081/virgin/flights/2020-01-01
+   http://localhost:8081/virgin/v1/flights/2020-01-01
 
 
