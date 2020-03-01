@@ -13,7 +13,6 @@ import org.springframework.test.web.servlet.MockMvc;
 @RunWith(SpringRunner.class)
 @ActiveProfiles("local")
 @AutoConfigureMockMvc
-@AutoConfigureWireMock(port = 9999)
 public class IntegrationTestBase {
 
     @Autowired
